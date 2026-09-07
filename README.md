@@ -237,3 +237,6 @@ This repository serves as the official landing page for AlphaChess. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AlphaChess today!**
+
+---
+**Last updated:** 2026-09-07 09:58:25 UTC
