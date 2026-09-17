@@ -239,4 +239,4 @@ This repository serves as the official landing page for AlphaChess. The software
 **Get the most recent version of AlphaChess today!**
 
 ---
-**Last updated:** 2026-09-17 11:07:32 UTC
+**Last updated:** 2026-09-17 16:24:25 UTC
